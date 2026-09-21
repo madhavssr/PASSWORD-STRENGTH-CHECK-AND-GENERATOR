@@ -12,23 +12,33 @@ Features
 
   The main features of this project are:
     1.Password Length Check
+    
     2.Password Character Variety Check
+    
     3.Strength Report
+    
     4.Random password generator
 
 Technologies used
 
   1.Python 3
+  
   2.Spyder (Anaconda)
+  
   3.Git and Github
 
 Steps to Run project
 
   1.Install Python
+  
   2.Clone the Github repository
+  
   3.Open the project folder in your preferred Python IDE
+  
   4.Open MAIN PROGRAM.py
+  
   5.Run file
+  
   6.Follow the program on-screen prompts
 
 Instructions for testing
