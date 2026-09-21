@@ -17,10 +17,16 @@ if int(x)==1:
     passw=input("\nEnter your password:")
     
     result1=PASSWORD_LENGTHCHECK.length_check(passw)
-    print ("\n\nLength Check Passed:", result1)
+    if result1==True:
+        print ("\n\nYour password is of sufficient length")
+    else:
+        print("\n\nYour password is not long enough")
     
     result2=PASSWORD_CHARACTERVAR.character_variation(passw)
-    print("Character Variance Passed:", result2)
+    if result2==True:
+        print("\n\nYour password has letter,numbers and symbols)
+    else:
+        print("\n\nYour password does not contain ayleast one letter,number or symbol each")
     
     STRENGTH_RESULT.strength_report(result1, result2)
 
