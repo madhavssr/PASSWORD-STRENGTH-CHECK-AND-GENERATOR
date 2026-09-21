@@ -27,7 +27,7 @@ This project was built to apply core programming and problem-solving concepts â€
   
   3.Git and Github
 
-Steps to Run project
+â€¢Steps to Run project
 
   1.Install Python
   
