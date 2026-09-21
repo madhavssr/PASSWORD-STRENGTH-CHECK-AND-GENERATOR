@@ -9,8 +9,8 @@ The program check password strength based on two criteria — length, and charac
 This project was built to apply core programming and problem-solving concepts — including conditional logic, loops, functions, and string manipulation — to a small, real-world cybersecurity problem.
 
 •Features
-
   The main features of this project are:
+    
     1.Password Length Check
     
     2.Password Character Variety Check
