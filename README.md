@@ -21,25 +21,25 @@ This project was built to apply core programming and problem-solving concepts �
 
 •Technologies used
 
-  1.Python 3
+    1.Python 3
   
-  2.Spyder (Anaconda)
+    2.Spyder (Anaconda)
   
-  3.Git and Github
+    3.Git and Github
 
 •Steps to Run project
 
-  1.Install Python
+    1.Install Python
   
-  2.Clone the Github repository
+    2.Clone the Github repository
   
-  3.Open the project folder in your preferred Python IDE
+    3.Open the project folder in your preferred Python IDE
   
-  4.Open MAIN PROGRAM.py
+    4.Open MAIN PROGRAM.py
   
-  5.Run file
+    5.Run file
   
-  6.Follow the program on-screen prompts
+    6.Follow the program on-screen prompts
 
 •Instructions for testing
 
@@ -52,3 +52,11 @@ This project was built to apply core programming and problem-solving concepts �
       Password1-	Passes length,fails if missing a symbol
       Password1!- Passes — meets length and full character variety
       (empty input)-	Should not crash the program
+
+  To test the Generator:
+
+      Run the program and select option 2
+      Try the following test cases and confirm the output matches expectations:
+        8 - Input accepted, password outputted
+        7 - Input not accepted, no password outputted
+        abc - Input not accepted, integer required.
