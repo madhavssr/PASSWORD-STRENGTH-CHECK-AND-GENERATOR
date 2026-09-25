@@ -43,7 +43,7 @@ This project was built to apply core programming and problem-solving concepts â€
 
 â€¢Instructions for testing
 
-  To test the Strength Checker (Option 1):
+  To test the Strength Checker:
 
     Run the program and select option 1
     Try the following test cases and confirm the output matches expectations:
